@@ -15,7 +15,11 @@ The api requires a few keys, which can be found in the source code.
 
 ## Installation
 
-clone the repo or just download
+clone the repo 
+
+git clone https://github.com/rich-tilt/livefront.git
+
+or just download
 
 ## Contributing
 
